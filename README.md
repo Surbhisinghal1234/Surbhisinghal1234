@@ -6,7 +6,7 @@
 - 🌱 Actively learning backend development and API integration
 - 💬 Ask me anything about React, JS, or MongoDB
 - 📫 How to reach me: **surbhi98singhal@gmail.com**
-- ⚡ Fun fact: I enjoy building user-friendly web experiences!
+
 
 
 
