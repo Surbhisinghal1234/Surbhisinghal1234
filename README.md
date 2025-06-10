@@ -41,4 +41,4 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/surbhi-singhal)
+[![LinkedIn](https://www.linkedin.com/in/surbhi-singhal-701145295/)
