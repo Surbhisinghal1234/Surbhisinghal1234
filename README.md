@@ -7,6 +7,8 @@
 - 💬 Ask me anything about React, JS, or MongoDB
 - 📫 How to reach me: **surbhi98singhal@gmail.com**
 - ⚡ Fun fact: I enjoy building user-friendly web experiences!
+- ![Profile Views](https://komarev.com/ghpvc/?username=surbhisinghal1234&label=Profile%20views&color=0e75b6&style=flat)
+
 
 ---
 
