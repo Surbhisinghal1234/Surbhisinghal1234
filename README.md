@@ -5,9 +5,7 @@
 - 🔭 Currently building full-stack projects with MERN Stack
 - 🌱 Learning advanced backend & system design
 - 🧠 Interested in React, Node.js, MongoDB
-- 💬 Ask me about JavaScript, REST APIs, or UI/UX
 - 📫 Reach me at: **surbhi98singhal@gmail.com**
-- ⚡ Fun fact: I love turning complex problems into clean UI!
 
 
 ## 🛠️ Skills & Tools
