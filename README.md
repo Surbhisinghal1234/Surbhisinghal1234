@@ -43,13 +43,6 @@
 
 ---
 
-## 🔥 GitHub Streak & Trophies
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=surbhisinghal1234&theme=dark)](https://git.io/streak-stats)
-
-
----
-
 ### 📫 Connect with Me
 
 [![LinkedIn](https://www.linkedin.com/in/surbhi-singhal-701145295/)
