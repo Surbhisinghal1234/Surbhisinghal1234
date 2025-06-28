@@ -33,8 +33,7 @@
 </p>
 
 ## 🌐 My Portfolio
-
-🔗 [Visit My Portfolio](https://portfolio-xi-eosin-69.vercel.app/)
+[https://portfolio-xi-eosin-69.vercel.app/](https://portfolio-xi-eosin-69.vercel.app/)
 
 ---
 
